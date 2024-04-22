@@ -11,7 +11,7 @@ public class ExtraWork {
 		System.out.println("Who is the best NBA player of all time?");
 		String nbaPlayer = scanner.nextLine();
 		
-		if (nbaPlayer.equals("Steph Curry")) {
+		if (nbaPlayer.equals("steph curry")) {
 			System.out.println("You're Right");
 			
 		} else {
